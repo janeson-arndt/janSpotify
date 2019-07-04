@@ -151,7 +151,7 @@ h1  {
 /* xs < 768*/
 @media screen and (max-width:767px) {
     h1 {
-        font-size: 50px;
+        font-size: 70px;
     }
     .btnCustom {
         margin: 10px 15px; 
