@@ -160,6 +160,10 @@ h1  {
     .btnCustom {
         margin: 10px 15px; 
     }
+
+    .textoCapa h3 {
+        font-size: 20px;
+    }
 }
 
 /* sm */
