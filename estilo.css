@@ -51,6 +51,10 @@ nav.navbarTransparente {
     color: #9bf0e1;
     background: none;
 }
+
+.navbar-toggle {
+    border: none;
+}
  
 /* Imagem de capa */
 
